@@ -17,7 +17,7 @@ jobs:
         uses: actions/checkout@v2
 
       - name: Generate the Snake
-        uses: Platane/snk@master
+        uses: Platane/snk@v3 # Bu versiyon daha güncel ve set-output kullanmıyor
         id: snake-gif
         with:
           github_user_name: nurdanpehlivan
