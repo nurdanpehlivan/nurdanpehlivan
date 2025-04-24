@@ -2,10 +2,7 @@
 
 name: Generate Snake
 
-# Controls when the action will run. This action runs every 6 hours.
-on:
-  schedule:
-    - cron: "0 */6 * * *" # every 6 hours
+
   workflow_dispatch:
 
 jobs:
