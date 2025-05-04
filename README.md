@@ -1,4 +1,4 @@
-[![MasterHead](https://media.istockphoto.com/id/1410650128/vector/modern-high-tech-background-for-presentations-and-websites-abstract-background-with-glowing.jpg?s=612x612&w=0&k=20&c=5XpXGOu6jOUzx96oBg5YozpsYwgeBamHBgliyxhB6Tc=)
+[![MasterHead]([https://media.istockphoto.com/id/1410650128/vector/modern-high-tech-background-for-presentations-and-websites-abstract-background-with-glowing.jpg?s=612x612&w=0&k=20&c=5XpXGOu6jOUzx96oBg5YozpsYwgeBamHBgliyxhB6Tc=](https://user-images.githubusercontent.com/96360040/159220580-1e572ad3-de21-423c-a6d3-d26010bd442e.png))
 <h1 align="center">Hi 👋, I'm Nurdan Pehlivan</h1>
 <h3 align="center">A passionate mobile developer from Turkey</h3>
 
