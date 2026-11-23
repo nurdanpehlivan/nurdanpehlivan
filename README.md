@@ -70,7 +70,8 @@ I'm a **Computer Engineer** (Kastamonu University, 2026) building modern Android
 
 ## 🚀 Featured Projects
 
-### 🥗 [Frizzy (Shelfie)](https://github.com/nurdanpehlivan/Frizzy-Smart-Pantry-Recipes) — Smart Kitchen & Food Waste Tracker`Kotlin` `Compose` `Hilt` `Room` `Gemini` `ML Kit` `Cloudflare Workers + D1`
+### 🥗 [Frizzy](https://github.com/nurdanpehlivan/Frizzy-Smart-Pantry-Recipes) — Smart Kitchen & Food Waste Tracker
+`Kotlin` `Compose` `Hilt` `Room` `Gemini` `ML Kit` `Cloudflare Workers + D1`
 
 Taken from idea to **Google Play** end-to-end.
 - Multi-module Clean Architecture (core domain/data/ui + **8 feature modules**), build-logic convention plugins, MVI-style Contract / ViewModel / Screen
