@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="220" viewBox="0 0 1200 220">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#3DDC84"/>
+      <stop offset="100%" stop-color="#7F52FF"/>
+    </linearGradient>
+  </defs>
+  <path fill="url(#g)" d="M0,0 H1200 V160 C1050,215 900,120 750,150 C600,180 450,225 300,185 C180,155 80,170 0,190 Z"/>
+  <path fill="#ffffff" fill-opacity="0.12" d="M0,0 H1200 V120 C1000,175 850,90 650,125 C450,160 250,190 0,140 Z"/>
+  <text x="600" y="88" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="52" font-weight="700" fill="#ffffff">Nurdan Pehlivan</text>
+  <text x="600" y="130" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="22" fill="#ffffff" fill-opacity="0.92">Android Developer  •  Kotlin &amp; Jetpack Compose</text>
+</svg>
