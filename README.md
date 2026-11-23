@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3DDC84,100:7F52FF&height=190&section=header&text=Nurdan%20Pehlivan&fontSize=44&fontColor=ffffff&fontAlignY=35&desc=Android%20Developer%20%E2%80%A2%20Kotlin%20%26%20Jetpack%20Compose&descAlignY=56&descSize=18" width="100%" />
+<img src="./banner.svg" width="100%" alt="Nurdan Pehlivan — Android Developer" />
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=7F52FF&center=true&vCenter=true&width=600&lines=Android+Developer+%F0%9F%A4%96+Kotlin+%E2%80%A2+Jetpack+Compose;Clean+Architecture+%E2%80%A2+MVVM+%2F+MVI+%E2%80%A2+Multi-module;Ex-Boyner+Android+Intern+%F0%9F%9B%8D%EF%B8%8F;COP31+Climate+Tech+Creathon+Top+10+%F0%9F%8C%8D;Building+AI-powered+apps+with+Gemini+%E2%9C%A8" alt="Typing SVG" />
@@ -121,6 +121,6 @@ Teaches kids how food is produced through quizzes, an AI chatbot, read-aloud and
 
 ### 💜 Thanks for visiting — let's build something together!
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F52FF,100:3DDC84&height=100&section=footer" width="100%" />
+<img src="./footer.svg" width="100%" />
 
 </div>
